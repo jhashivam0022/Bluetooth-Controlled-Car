@@ -9,6 +9,9 @@
 <p>&bull; HC-SR04(Ultra Sonic Sensor)</p>
 <p>&bull; ESP32-CAM Version</p>
 <p>&bull; Jumper Wires & Power Supply</p>
+
+<p>bluetooth controlled App - https://bluetooth-serial-controller.en.softonic.com/android</p>
+
 <p>Below Video demonstrates about the output of our Project</p>
 
 
